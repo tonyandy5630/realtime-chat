@@ -1,0 +1,17 @@
+D:\Tu\RealtimeProject\Realtime-BE\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\Tu\RealtimeProject\Realtime-BE\Repository\bin\Debug\net6.0\Repository.dll
+D:\Tu\RealtimeProject\Realtime-BE\Repository\bin\Debug\net6.0\Repository.pdb
+D:\Tu\RealtimeProject\Realtime-BE\Repository\bin\Debug\net6.0\BussinessObject.dll
+D:\Tu\RealtimeProject\Realtime-BE\Repository\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Tu\RealtimeProject\Realtime-BE\Repository\bin\Debug\net6.0\BussinessObject.pdb
+D:\Tu\RealtimeProject\Realtime-BE\Repository\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Tu\RealtimeProject\Realtime-BE\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\Tu\RealtimeProject\Realtime-BE\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tu\RealtimeProject\Realtime-BE\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\Tu\RealtimeProject\Realtime-BE\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\Tu\RealtimeProject\Realtime-BE\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\Tu\RealtimeProject\Realtime-BE\Repository\obj\Debug\net6.0\Repository.csproj.Up2Date
+D:\Tu\RealtimeProject\Realtime-BE\Repository\obj\Debug\net6.0\Repository.dll
+D:\Tu\RealtimeProject\Realtime-BE\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\Tu\RealtimeProject\Realtime-BE\Repository\obj\Debug\net6.0\Repository.pdb
+D:\Tu\RealtimeProject\Realtime-BE\Repository\obj\Debug\net6.0\ref\Repository.dll

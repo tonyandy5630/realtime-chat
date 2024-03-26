@@ -1,0 +1,14 @@
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\bin\Debug\net6.0\BussinessObject.deps.json
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\bin\Debug\net6.0\BussinessObject.runtimeconfig.json
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\bin\Debug\net6.0\BussinessObject.dll
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\bin\Debug\net6.0\BussinessObject.pdb
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.AssemblyReference.cache
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\obj\Debug\net6.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfoInputs.cache
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfo.cs
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.CoreCompileInputs.cache
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\obj\Debug\net6.0\BussinessObject.dll
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\obj\Debug\net6.0\refint\BussinessObject.dll
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\obj\Debug\net6.0\BussinessObject.pdb
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\obj\Debug\net6.0\BussinessObject.genruntimeconfig.cache
+D:\Tu\RealtimeProject\Realtime-BE\BussinessObject\obj\Debug\net6.0\ref\BussinessObject.dll
